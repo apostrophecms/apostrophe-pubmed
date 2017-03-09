@@ -1,0 +1,28 @@
+{
+  "name": "apostrophe-pubmed",
+  "version": "1.0.0",
+  "description": "Piece subclass with an enhanced editor modal for easily syncing single PubMed docs to new piece instances",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/punkave/apostrophe-pubmed.git"
+  },
+  "keywords": [
+    "apostrophe",
+    "cms",
+    "apostrophecms",
+    "pubmed"
+  ],
+  "author": "P'unk Avenue",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/punkave/apostrophe-pubmed/issues"
+  },
+  "homepage": "https://github.com/punkave/apostrophe-pubmed#readme",
+  "dependencies": {
+    "node-ncbi": "^0.5.0"
+  }
+}

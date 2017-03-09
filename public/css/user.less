@@ -1,0 +1,26 @@
+.apos-pubmed-enhanced-fieldset {
+	position: relative;
+}
+
+.apos-ui .apos-button.apos-pubmed-sync-button {
+	position: absolute;
+	right: 20px;
+	top: 42px;
+}
+
+.apos-pubmed-autocompleted {
+	animation: autocomplete 0.3s;
+	-webkit-animation: autocomplete 0.3s;
+}
+
+@keyframes autocomplete {
+  0% { transform: scale(1) }
+  50% { transform: scale(1.04); box-shadow: 0px 0px 14px 0px rgba(25,70,250,0.62); }
+  100% { transform: scale(1) }
+}
+
+@-webkit-keyframes autocomplete {
+  0% { transform: scale(1) }
+  50% { transform: scale(1.04); box-shadow: 0px 0px 14px 0px rgba(25,70,250,0.62); }
+  100% { transform: scale(1) }
+}
