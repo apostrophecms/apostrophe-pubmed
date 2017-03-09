@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/punkave/apostrophe-pubmed#readme",
   "dependencies": {
+    "lodash": "^4.17.4",
     "node-ncbi": "^0.5.0"
   }
 }
