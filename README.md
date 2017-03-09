@@ -4,6 +4,8 @@ Simple `apostrophe-pieces` subclass with extra editor modal interface that uses 
 
 Use in conjunction with [`apostrophe-pubmed-import`](https://github.com/punkave/apostrophe-pubmed-import) to double your fun.
 
+![img](https://dl.dropboxusercontent.com/content_link/8tAc0pIgeGjbGki36znUcy34rSInc5WBdd3DlTVAxE9Z0TJXGDj8XzWLfmdtZtWX/file?dl=0&duc_id=uVQ6USkWIEkfzkYFLE8c92PthO2woRIochjAwSQCaDbrx8Q1vQgK2MhuSBbrGQwo&raw=1&size=2048x1536&size_mode=3)
+
 ## in app.js
 
 ```javascript
