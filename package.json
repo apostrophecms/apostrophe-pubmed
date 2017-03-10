@@ -1,6 +1,6 @@
 {
   "name": "apostrophe-pubmed",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Piece subclass with an enhanced editor modal for easily syncing single PubMed docs to new piece instances",
   "main": "index.js",
   "scripts": {
